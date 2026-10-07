@@ -1,0 +1,23 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node modules (if needed)
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+.python-version
+
+# Local server
+.http-server-cwd
+
+# Logs
+*.log
